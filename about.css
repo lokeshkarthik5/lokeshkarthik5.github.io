@@ -1,0 +1,42 @@
+body{
+    background-image:url("giphy4.gif");
+    background-size: cover;
+}
+.top-wrapper{
+    color:white;
+    font-size: 14px;
+    width:1400px;
+    height:200px;
+
+
+    text-align: left;
+    font-style: oblique;
+}
+.top-wrapper a{
+    color:white;
+    text-decoration: none;
+}
+.img-container{
+    width:1400px;
+    height:250px;
+}
+.img{
+    
+    padding-left:700px;
+}
+.about-me{
+    color: white;
+    text-align:center;
+    padding-right:900px;
+    font-style: italic;
+}
+.about-me p,h3{
+    text-align:left;
+}
+.about-me h4{
+    padding-bottom:10px;
+}
+.about-me a{
+    color:red;
+    text-decoration: none;
+}

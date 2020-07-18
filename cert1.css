@@ -1,0 +1,33 @@
+.top-wrapper{
+    color:white;
+    font-size: 14px;
+    width:1400px;
+    height:200px;
+
+    text-align: left;
+    font-style: oblique;
+    
+}
+body{
+    background-image:url("giphy4.gif");
+    background-size: cover;
+}
+.top-wrapper span{
+    color:red;
+}
+.top-wrapper a{
+    color:white;
+
+
+  
+    text-decoration: none;
+}
+
+.info{
+    color:white;
+    font-size: 20px;
+    padding-bottom:2px;
+}
+.img{
+    padding:5px;
+}

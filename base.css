@@ -1,0 +1,79 @@
+.top-left span{
+    color:red;
+
+}
+
+.top-left{
+    color:white;
+    font-size: 14px;
+
+    text-align: left;
+    font-style: oblique;
+    
+}
+
+.content{
+    text-align:center;
+    padding-left:50px;
+    padding-right:50px;
+    width:10px;
+    position: relative;
+
+    color:whitesmoke;
+    text-decoration: none;
+    border-style: solid;
+    border-radius: 2px;
+
+
+}
+.content:hover{
+    opacity:0.1;
+    
+}
+body{
+    background-image:url("giphy4.gif");
+    background-size: cover;
+}
+
+.center-wrapper{
+    
+    padding-top:100px;
+    
+    padding-left:10px;
+
+}
+.anim h3{
+    color:white;
+    font-size: 50px;
+    text-align:center;
+
+}
+
+.contents a{
+    margin:20px;
+}
+.contents{
+    text-align:center;
+    margin-top: 300px;
+}
+
+.contacts{
+    width:1400px;
+    height:200px;
+}
+.contact {
+    
+    width:60px;
+    height:100px;
+
+}
+.contact a{
+    margin:20px;
+    float:left;
+}
+.top-left:hover{
+    opacity: 0.1;
+}
+.contact a:hover{
+    opacity: 0.1;
+}
