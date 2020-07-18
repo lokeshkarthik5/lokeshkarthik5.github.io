@@ -77,15 +77,3 @@ body{
 .contact a:hover{
     opacity: 0.1;
 }
-@media (max-width:670px){
-    .content a{
-        width:100%;
-    }
-    .contact a{
-        width:100%;
-    }
-
-    .anim{
-        width:100%;
-    }
-}
